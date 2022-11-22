@@ -3,7 +3,7 @@ module github.com/brucewangzhihua/gin-swagger
 go 1.18
 
 require (
-	github.com/brucewangzhihua/gin v1.8.3
+	github.com/brucewangzhihua/gin v1.8.4
 	github.com/gin-contrib/gzip v0.0.1
 	github.com/stretchr/testify v1.7.1
 	github.com/swaggo/swag v1.5.1
