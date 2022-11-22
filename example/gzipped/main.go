@@ -1,12 +1,12 @@
 package main
 
 import (
+	"github.com/brucewangzhihua/gin-swagger"
+	"github.com/brucewangzhihua/gin-swagger/swaggerFiles"
 	"github.com/gin-contrib/gzip"
 	"github.com/gin-gonic/gin"
-	"github.com/swaggo/gin-swagger"
-	"github.com/swaggo/gin-swagger/swaggerFiles"
 
-	_ "github.com/swaggo/gin-swagger/example/basic/docs"
+	_ "github.com/brucewangzhihua/gin-swagger/example/basic/docs"
 )
 
 // @title Swagger Example API
