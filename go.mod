@@ -3,7 +3,7 @@ module github.com/brucewangzhihua/gin-swagger
 require (
 	github.com/gin-contrib/gzip v0.0.1
 	github.com/gin-contrib/sse v0.1.0 // indirect
-	github.com/gin-gonic/gin v1.4.0
+	github.com/brucewangzhihua/gin v1.8.2
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/mattn/go-isatty v0.0.8 // indirect
 	github.com/stretchr/testify v1.3.0

@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/brucewangzhihua/gin"
 	"github.com/brucewangzhihua/gin-swagger"
 	"github.com/brucewangzhihua/gin-swagger/swaggerFiles"
-	"github.com/gin-gonic/gin"
 
 	_ "github.com/brucewangzhihua/gin-swagger/example/basic/docs"
 )

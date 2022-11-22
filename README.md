@@ -40,7 +40,7 @@ import "github.com/brucewangzhihua/gin-swagger/swaggerFiles" // swagger embed fi
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	"github.com/brucewangzhihua/gin"
 	"github.com/brucewangzhihua/gin-swagger"
 	"github.com/brucewangzhihua/gin-swagger/swaggerFiles"
 
@@ -86,7 +86,7 @@ func main() {
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	"github.com/brucewangzhihua/gin"
 	"github.com/brucewangzhihua/gin-swagger"
 	"github.com/brucewangzhihua/gin-swagger/swaggerFiles"
 

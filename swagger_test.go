@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
+	"github.com/brucewangzhihua/gin"
 	"github.com/brucewangzhihua/gin-swagger/swaggerFiles"
-	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 
 	_ "github.com/brucewangzhihua/gin-swagger/example/basic/docs"
